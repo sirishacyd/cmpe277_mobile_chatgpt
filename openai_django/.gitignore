@@ -1,0 +1,64 @@
+# Andriod
+
+# Built application files
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Local configuration files
+local.properties
+
+# Android Studio files
+*.iml
+.idea/
+.gradle/
+build/
+captures/
+
+
+# Chatgpt
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Compiled Python modules
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Static files
+staticfiles/
+*.js
+*.css
+
+# Media files
+media/
+
+# Other
+*.DS_Store
+*.pyproj.user
+*.suo
+*.sln.ide
+*.user
+*.suo
+*.cache
+*.bak
